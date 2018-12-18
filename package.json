@@ -1,0 +1,25 @@
+{
+  "name": "wood-authenticate",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlego/wood-authenticate.git"
+  },
+  "keywords": [
+    "wood-authenticate"
+  ],
+  "author": "jlego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlego/wood-authenticate/issues"
+  },
+  "homepage": "https://github.com/jlego/wood-authenticate#readme",
+  "dependencies": {
+    "wood-token": "^1.0.2"
+  }
+}
